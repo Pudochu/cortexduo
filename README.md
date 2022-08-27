@@ -26,7 +26,7 @@
 
 # İndirme/Kurulum
 
-### CortexDuo uygulamasını bilgisayarınıza indirmek ve kurmak için [**tıklayın**](https://cortexduo.com/download).
+### CortexDuo uygulamasını bilgisayarınıza indirmek ve kurmak için [**tıklayın**](https://github.com/Pudochu/cortexduo/releases/download/Latest/Cortex_Duo-win32-x64.rar).
 
 # Topluluğumuz
 
